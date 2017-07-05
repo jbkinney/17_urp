@@ -1,2 +1,2 @@
-# 16_urp
-A Python tutorial, designed for the 2016 Undergraduate Research Program at Cold Spring Harbor Laboratory
+# 167_urp
+A Python tutorial, designed for the 2017 Undergraduate Research Program at Cold Spring Harbor Laboratory
